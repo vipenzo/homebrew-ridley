@@ -7,7 +7,8 @@ cask "ridley" do
   desc "3D modeling with turtle graphics and SDF"
   homepage "https://github.com/vipenzo/ridley"
 
-  depends_on arch: :arm64
+  depends_on arch:  :arm64
+  depends_on macos: :big_sur
 
   app "Ridley.app"
 
