@@ -1,6 +1,6 @@
 cask "ridley" do
-  version "3.9.0"
-  sha256 "d46a4ba1813530c4e058e20f6b00c3d861209cc94c018ddb45118b0c330e98be"
+  version "3.10.0"
+  sha256 "2300cd060b7373596307169da8cf5ac1994a03f02c1173e7eb7608ba5c9d4e29"
 
   url "https://github.com/vipenzo/ridley/releases/download/v#{version}/Ridley-v#{version}-macOS.dmg"
   name "Ridley"
